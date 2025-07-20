@@ -1,0 +1,9 @@
+BG_COLOR = "#f0f4c3"
+BTN_ADD = "#4caf50"
+# BTN_ADD = "red"
+BTN_VIEW = "#2196f3"
+BTN_UPDATE = "#ff9800"
+BTN_DELETE = "#f44336"
+LABEL_COLOR = "#37474f"
+ENTRY_BG = "#ffffff"
+FONT = ("Segoe UI", 11)
