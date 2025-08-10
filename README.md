@@ -15,9 +15,12 @@ A simple Python-based CRUD (Create, Read, Update, Delete) application for managi
 - **Modules Used:** `sqlite3`, `tkinter` (for GUI, if applicable)
 
 ## 📂 Project Structure
+```bash
 ├── database.py           # Handles database connection and table creation
 ├── main.py               # Entry point for the application 
 ├── student_form.py       # GUI form for adding/updating students 
 ├── student_operations.py # CRUD operations 
 ├── students.db           # SQLite database file 
 └── pycache/          # Compiled Python files
+```
+
