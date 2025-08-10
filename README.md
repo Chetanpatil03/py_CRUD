@@ -23,4 +23,13 @@ A simple Python-based CRUD (Create, Read, Update, Delete) application for managi
 ├── students.db           # SQLite database file 
 └── pycache/          # Compiled Python files
 ```
+## 🚀 How to Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Chetanpatil03/py_CRUD.git
+   cd py_CRUD
 
+2. **Run the application**
+   ```bash
+   python main.py
+3. 
